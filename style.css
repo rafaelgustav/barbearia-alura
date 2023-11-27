@@ -1,12 +1,14 @@
 body {
     text-align: center;
-background: #cccccc;
+    background: #cccccc;
 }
 
-em,strong{
-color:yellow;
+em,
+strong {
+    color: yellow;
 
-.baner{
-width: 100%;
 }
+
+.baner {
+    width: 100%;
 }
