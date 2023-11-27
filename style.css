@@ -5,4 +5,8 @@ background: #cccccc;
 
 em,strong{
 color:yellow;
+
+.baner{
+width: 100%;
+}
 }
